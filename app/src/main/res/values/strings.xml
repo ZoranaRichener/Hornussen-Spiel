@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hornussen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_app">The best android implementation of Hornussen game.This app implemented based on Google Design Guidelines.</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextAppearance.Subhead.Bold" parent="@style/TextAppearance.AppCompat.Subhead">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.Medium.Bold" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <!--<item name="windowActionModeOverlay">true</item>-->
+        <!--<item name="android:actionModeBackground">@color/blue_grey_600</item>-->
+        <!--<item name="android:dialogTheme">@style/Dialog.Theme</item>-->
+
+        <!--<style name="Dialog.Theme" parent="Theme.AppCompat.Light.Dialog">-->
+            <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+            <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+            <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <!--</style>-->
+    <!--</style>-->
+
+</resources>
